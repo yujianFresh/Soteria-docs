@@ -1,0 +1,24 @@
+{
+  "name": "soteria-docs",
+  "version": "1.0.0",
+  "description": "This site provides documentation for Clover, an Operating System parachain on the Polkadot network. Here, you'll find both high-level and technical information for developers, collators, end users, and other Clover network participants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujianFresh/Soteria-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujianFresh/Soteria-docs/issues"
+  },
+  "homepage": "https://github.com/yujianFresh/Soteria-docs#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-load-plugins": "^2.0.6"
+  }
+}
